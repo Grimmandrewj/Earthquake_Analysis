@@ -1,7 +1,7 @@
 # Goal
-- In this assignment, I was tasked with assisting the USGS (United States Geological Survey) in creating a new set of tools allowing them to visualize their earthquake data
-- I was to obtain a JSON file from the provided datasets located at https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php
-- I was then to create an interactive visualization reflecting the data
+- In this assignment, I was tasked with assisting the USGS (United States Geological Survey) in creating a new set of tools allowing them to visualize their earthquake data.
+- I was to obtain a JSON file from the provided datasets located at https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php.
+- I was then to create an interactive visualization reflecting the data.
 
 # Method
 - First, I selected the dataset and set the API endpoint as a variable
